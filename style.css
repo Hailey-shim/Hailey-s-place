@@ -1,12 +1,12 @@
 body {
-  font-family: sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   text-align: center;
   padding: 50px;
-  background-color: #f0f4ff;
+  background-color: #fff0f6;
 }
 
 h1 {
-  color: #3b5bdb;
+  color: #c2255c;
 
   /* 아래 2줄 추가 */
   animation: fadeInDown 1s ease;
