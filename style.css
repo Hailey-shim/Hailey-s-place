@@ -1,5 +1,5 @@
 body {
-  font-family: 'Noto Sans KR', sans-serif;
+  font-family: 'Jua', sans-serif;
   text-align: center;
   padding: 50px;
   background-color: #fff0f6;
@@ -7,17 +7,13 @@ body {
 
 h1 {
   color: #c2255c;
-
-  /* 아래 2줄 추가 */
   animation: fadeInDown 1s ease;
 }
 
 p {
-  /* 아래 2줄 추가 */
   animation: fadeInUp 1s ease 0.3s both;
 }
 
-/* 아래 키프레임 새로 추가 */
 @keyframes fadeInDown {
   from {
     opacity: 0;
